@@ -1,0 +1,7 @@
+/workshop1/vendor/
+/workshop1/node_modules/
+/workshop1/.env
+/workshop1/.env.*
+!/workshop1/.env.example
+/workshop1/public/build/
+/workshop1/storage/*.key
